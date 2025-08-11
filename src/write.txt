@@ -1,0 +1,1 @@
+admin java  this is simple char stream write operation
