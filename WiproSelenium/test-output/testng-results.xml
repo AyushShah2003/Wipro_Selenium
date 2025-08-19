@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-19T17:43:25 IST" name="Default suite" finished-at="2025-08-19T17:43:37 IST" duration-ms="12428">
+    <groups>
+    </groups>
+    <test started-at="2025-08-19T17:43:25 IST" name="Default test" finished-at="2025-08-19T17:43:37 IST" duration-ms="12428">
+      <class name="Date_19_08.ExcelWrite">
+        <test-method signature="login()[pri:0, instance:Date_19_08.ExcelWrite@6c1a5b54]" started-at="2025-08-19T17:43:25 IST" name="login" finished-at="2025-08-19T17:43:37 IST" duration-ms="12351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Date_19_08.ExcelWrite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
