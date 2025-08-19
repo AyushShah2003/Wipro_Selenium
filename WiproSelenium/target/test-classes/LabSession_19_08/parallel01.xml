@@ -1,0 +1,22 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Smoke Suite" verbose="1">
+
+  <test name="Smoke Tests" parallel="methods" thread-count="2">
+    <groups>
+      <run>
+        <include name="Smoke"/>
+      </run>
+    </groups>
+
+    <classes>
+      <class name="WiproSelenium.src.test.java.LabSession_19_08.parallel.java"/>
+      <class name="WiproSelenium.src.test.java.LabSession_19_08.Assertions_Lab.java"/>
+
+      <class name="WiproSelenium.src.test.java.LabSession_19_08.Annotations.java"/>
+
+    </classes>
+  </test>
+
+</suite>
+  
